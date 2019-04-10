@@ -14,5 +14,5 @@
      
     end
 
-fido = Dog.new("fido")
+
 fido.instance_variable_set(:@name, "Fido")
