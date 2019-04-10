@@ -12,3 +12,5 @@ class Dog
   end
 
 end 
+
+john = Dog.new
