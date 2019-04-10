@@ -14,7 +14,4 @@
      
     end
 
-fido = Dog.new
-milou.name = "Milou"
-
-milou.name
+fido = Dog.new("fido")
