@@ -13,5 +13,5 @@ class Dog
 
 end 
 
-john = Dog.new("john")
-jonh.name
+milou = Dog.new("milou")
+milou.name
