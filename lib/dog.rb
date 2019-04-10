@@ -15,3 +15,5 @@ end
 
 milou = Dog.new
 milou.name = "Milou"
+
+milou.name
